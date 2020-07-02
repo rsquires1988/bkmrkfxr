@@ -23,8 +23,10 @@ def main():
     for line in artistSongList:
         # parse and basic strip
         url = urlparse(line)
+        # TODO 6: Why isn't this '/' removing the starting '/'?
         path = url.path.strip(' /\n')
         
+        # TODO 4: change to startswith for readability?
         # beginning / strip
         slashCleanIdx = path.find('/')
         if slashCleanIdx == 1:
@@ -34,12 +36,13 @@ def main():
         path = path.replace('_', ' ')
         
         # remove end garbage
-        # remove "crd"
+        # TODO 5: Potential bug if path doesn't contain ' crd' or ' tab'
+        # remove 'crd'
         crdIdx = path.rfind(' crd')
         if crdIdx != -1:
             path = path[:crdIdx]
         
-        # remove "tab"
+        # remove 'tab'
         tabIdx = path.rfind(' tab')
         if tabIdx != -1:
             path = path[:tabIdx]
@@ -72,7 +75,7 @@ def main():
 
     # format dict and output to file
     cleanedBkmks = open("cleaned_example.txt", "w")
-    space = " "
+    space = " " # TODO 5: There's gotta be a better way
     cleanedBkmks.write(f"Artist{space:<26}Songs\n\n")
     for key, valueList in dictBkmks.items():
         valueString = str(", ".join(valueList))
