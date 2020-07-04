@@ -1,31 +1,31 @@
 Artist                          Songs
 
-radiohead                       no surprises, creep, street spirit, killer cars
-smashing pumpkins               tonight tonight
-led zeppelin                    bron yr aur stomp, bron yr aur
-the doobie brothers             long train runnin, what a fool believes
-nirvana                         in bloom, oh me
-judy garland                    somewhere over the rainbow
-crosby stills and nash          420
-eva cassidy                     somewhere over the rainbow
-david gray                      babylon
-yes                             roundabout
-the police                      synchronicity 2, walking on the moon
-jimi hendrix                    voodoo child, little wing
-third eye blind                 semi charmed life
-misc soundtrack                 stranger things - main theme
-depeche mode                    personal jesus
-rem                             the great beyond, man on the moon
-colin hay                       overkill
 adventure time                  island song
-misc unsigned bands             mark mueller - ducktales theme
-blur                            youre so great
 barenaked ladies                pinch me
-weezer                          endless bummer
-bob dylan                       shelter from the storm
-gotye                           somebody that i used to know
-sound of music                  edelweiss
-simon and garfunkel             scarborough fair
-the guess who                   no sugar tonight
-smiths                          there is a light that never goes out
 beck                            girl
+blur                            youre so great
+bob dylan                       shelter from the storm
+colin hay                       overkill
+crosby stills and nash          420
+david gray                      babylon
+depeche mode                    personal jesus
+eva cassidy                     somewhere over the rainbow
+gotye                           somebody that i used to know
+jimi hendrix                    little wing, voodoo child
+judy garland                    somewhere over the rainbow
+led zeppelin                    bron yr aur, bron yr aur stomp
+misc soundtrack                 stranger things - main theme
+misc unsigned bands             mark mueller - ducktales theme
+nirvana                         in bloom, oh me
+radiohead                       creep, killer cars, no surprises, street spirit
+rem                             man on the moon, the great beyond
+simon and garfunkel             scarborough fair
+smashing pumpkins               tonight tonight
+smiths                          there is a light that never goes out
+sound of music                  edelweiss
+the doobie brothers             long train runnin, what a fool believes
+the guess who                   no sugar tonight
+the police                      synchronicity 2, walking on the moon
+third eye blind                 semi charmed life
+weezer                          endless bummer
+yes                             roundabout

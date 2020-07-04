@@ -1,4 +1,4 @@
-# Bkmrkfxr Ver 0.1
+# Bkmrkfxr Ver 0.1.1
 
 # bkmrkfxr.py is a python program for cleaning and organizing browser bookmark URL strings.
 
